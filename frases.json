@@ -1,0 +1,130 @@
+{
+  "train": [
+    {
+      "texto": "Agarra el extremo izquierdo del cable.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Sujeta el cable por la punta.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Coge el cable rojo.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Toma el extremo del cable.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Agarra la parte derecha del cable.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Sujeta el extremo azul.",
+      "etiqueta": "AGARRAR"
+    },
+
+    {
+      "texto": "Mueve el cable hacia la izquierda.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Desplaza el cable hasta la marca azul.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Lleva el cable hacia la mesa.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Acerca el cable a la marca.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Mueve el cable hacia arriba.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Desplaza la punta hacia la derecha.",
+      "etiqueta": "MOVER"
+    },
+
+    {
+      "texto": "Suelta el cable.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Libera el extremo del cable.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Deja el cable sobre la mesa.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Suelta la punta azul.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Libera el cable rojo.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Deja la punta del cable.",
+      "etiqueta": "SOLTAR"
+    },
+
+    {
+      "texto": "No agarres el cable.",
+      "etiqueta": "REVISAR"
+    },
+    {
+      "texto": "No muevas el cable.",
+      "etiqueta": "REVISAR"
+    },
+    {
+      "texto": "Hazlo como antes.",
+      "etiqueta": "REVISAR"
+    },
+    {
+      "texto": "Ponlo ahí.",
+      "etiqueta": "REVISAR"
+    }
+  ],
+
+  "test": [
+    {
+      "texto": "Toma la parte final del cable negro.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Sujeta firmemente la punta derecha.",
+      "etiqueta": "AGARRAR"
+    },
+    {
+      "texto": "Acerca el extremo hasta el punto marcado.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Coloca el cable junto a la señal verde.",
+      "etiqueta": "MOVER"
+    },
+    {
+      "texto": "Libera el extremo cuando llegues a la posición.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Deja la punta donde está indicada.",
+      "etiqueta": "SOLTAR"
+    },
+    {
+      "texto": "Haz exactamente lo de la vez anterior.",
+      "etiqueta": "REVISAR"
+    },
+    {
+      "texto": "No cambies la posición del cable.",
+      "etiqueta": "REVISAR"
+    }
+  ]
+}
